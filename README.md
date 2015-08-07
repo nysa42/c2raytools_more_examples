@@ -19,4 +19,7 @@ Some notes:
   
   make sure the xfrac file path is correct
   
-  some of the routines depend on my c2raytools addons
+  some of the routines depend on my c2raytools addons (found in my c2raytools branch)
+  
+  not all of the usage and description notes are accurate (most probably aren't)
+  
