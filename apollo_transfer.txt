@@ -1,0 +1,1 @@
+rsync -ravz --exclude-from 'exclude_rsync.txt' apollo.hpc.sussex.ac.uk:/lustre/scratch/astro/kd242/*_pyt .

@@ -1,0 +1,15 @@
+*/*dT*/*
+*/kSZ/polarization/*
+*/kSZ/partial*/dTkSZ_x*
+*/kSZ/partial*/dTkSZ_y*
+*/kSZ/partial*/dTkSZ_z*
+*/lc_boxes/*
+*/lc_obs_boxes/*
+*/lc_pv_boxes/*
+*/Lagrangean_binaries/*.bin
+*/pic_boxes/*
+*/*.e*
+*/*.o*
+*/Mao_ps/nv/*
+*/Mao_ps/output/nd*
+*/Mao_ps/output/t*
